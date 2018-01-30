@@ -10,3 +10,4 @@
 - https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17
 - https://medium.com/@manoj.bhagwat60/deploying-the-application-google-cloud-platform-public-private-subnets-9b77986ebd51
 - https://medium.com/google-cloud/gcp-products-described-in-4-words-or-less-f3056550e595
+- https://bitrot.sh/post/01-29-2018-expand-storage-with-free-google-shell/
